@@ -2,7 +2,7 @@
 title: "Exploration données sur les manchots"
 
 
-author: " Quentin FAYE" 
+author: " Quentin FAYE le meilleur" 
 
 
 bibliography: references.bib
